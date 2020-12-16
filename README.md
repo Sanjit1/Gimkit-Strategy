@@ -1,4 +1,7 @@
-# Gimkit Strategy Calculator #
+# Gimkit Strategy Calculator 
+
+$1 sent you here in a way right? 🤦Well i will not cpush or commit my strat here so good luck p1
+
 `calc-gimkit-strategy.py` is a Python script by [Noble H. Mushtak](https://noblemushtak.pythonanywhere.com/) which generates optimal strategies for the educational game [Gimkit](https://www.gimkit.com/). For example, here is the optimal strategy for going from $1 to over $4,000,000,000 and buying all Level 10 Gimkit upgrades except insurance in as few steps as possible (all steps which are not just answering a normal question are in bold):
 
 1. Answer 1 question, bringing your total up to $2
